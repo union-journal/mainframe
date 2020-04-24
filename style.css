@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+}
+/* page 1 */
+#pg1 {
+  position: absolute;
+  left: 40%;
+  top: 40%;
+}
+
+#name {
+  position: relative;
+  width: 250px;
+}
+
+#spotlight {
+  position: relative;
+  width: 650px;
+  left: -22%;
+}
+
+/* page 2 */
+#pg2 {
+  position: absolute;
+  left: 40%;
+  top: 150%;
+}
+
+#name_2 {
+  position: relative;
+  width: 250px;
+}
+
+#spotlight_2 {
+  position: relative;
+  width: 650px;
+  left: -22%;
+}
+
+/* page 3 */
+#pg3 {
+  position: absolute;
+  left: 40%;
+  top: 260%;
+}
+
+#letter {
+  position: relative;
+  height: 150px;
+  padding-bottom: 100px;
+}
+
+#spotlight_3 {
+  position: relative;
+  width: 650px;
+  left: -30%;
+}
+
+/* page 4 */
+#pg4{
+  position: absolute;
+  top: 370%;
+  height: 100%;
+  left: 5%;
+}
+#background {
+  height: 100%;
+}
